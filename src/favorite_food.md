@@ -1,3 +1,6 @@
 # favorite food
 
-apple
+あめんぼあきなｋｄｊふぁｌｊぢふぁｌｒ
+
+for i in range(ffjakjsd):
+asdfsidjf
